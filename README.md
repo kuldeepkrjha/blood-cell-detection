@@ -47,11 +47,20 @@ cells like:
 
 ![image](https://user-images.githubusercontent.com/64140687/226270630-542569ab-587c-42e8-acfd-6e8170a058f9.png)
 
+### Sample dataset image:
+![image](https://imgtr.ee/images/2023/03/20/qCJGM.jpg) ![image](https://imgtr.ee/images/2023/03/20/qCaw4.jpg)
+
+### Evaluation counts:
+![image](https://imgtr.ee/images/2023/03/20/qClV1.png)
+
+The performance of the blood cell detection model, shows the couts of different cells. 
 
 ## Conclusion
 
 The blood cell detection tool is a powerful and accurate way to analyze blood cell images using deep learning. With its high accuracy and
 easy-to-use interface, it is a valuable tool for medical researchers and professionals. With simple tools, we were able to create a model that can successfully classify the different types of blood cells.
+
+Refer to (https://bit.ly/3LwPYF2) for project docs.
 
 ## Furthur Improvements:
 
