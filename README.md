@@ -1,6 +1,6 @@
 # AI Tool for Blood Cell Detection
 
-Blood cell detection, it is a crucial step in medical diagnostics, is figuring out the many blood cell varieties and any abnormalities they may include. This task can be automated using artificial intelligence (AI) techniques, and the outcomes will be precise. In this guide, we'll go over how to detect blood cells using AI, with a focus on the Keras API.
+Blood cell detection, it is a crucial step in medical diagnostics, in figuring out the many blood cell varieties and any abnormalities they may include. This helps in better diagnosis of diseases and is often performed by experts at research labs. This task can be automated using artificial intelligence (AI) techniques with decent accuracy. In this project, we will go over how to detect blood cells using `MobileNetV2` with `Conv2D`, using Tensorflow and Keras.
 
 **The model is compiled with the following parameters:**
 
